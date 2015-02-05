@@ -1,0 +1,8 @@
+{
+    "rules": {
+    "directives": 1,
+    "controller":1,
+    "service":1,
+    "don't assign-angular-to-variable":1
+}
+}

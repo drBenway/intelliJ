@@ -1,7 +1,6 @@
 angular
-    .module('app')
-    .factory('myfac',myfac);
-
-function myfac(){
+    .module('$app')
+    .factory('$factoryName',$factoryName);
+function $factoryName(){
 
 }

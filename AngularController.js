@@ -1,6 +1,7 @@
 angular
-    .module('app')
-    .controller('SomeController', SomeController);
+    .module('$app')
+    .controller('$controllername', $controllername);
 
-function someController(){
+function $controllername(){
+    var vm = this;
 }

@@ -1,7 +1,7 @@
 angular
-    .module('app')
-    .service('myService',myService);
+    .module('$appName')
+    .service('$serviceName',$serviceName);
 
-function myService(){
+function $serviceName(){
 
 }

@@ -1,17 +1,16 @@
-
 angular
-    .module('')
-    .directive('mydirectiv',mydirective);
+    .module('$app')
+    .directive('$directiveName',$directiveName);
 
-function mydirective(){
+function $directiveName(){
     return {
         restrict: 'EA',
         transclude: false,
         scope: {},
-        templateUrl: 'mydirective.html',
+        templateUrl: '$directiveName.html',
         link: function (scope, element) {
-            scope.name = 'Jeff';
+
         }
     };
 }
-console.log
+

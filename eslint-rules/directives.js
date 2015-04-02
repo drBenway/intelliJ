@@ -1,5 +1,4 @@
 /**
- * Created by D-BS21WG on 4/02/2015.
  * make sure that directives call a function with the same name
  * angular.modulr('myapp')
  *  .directive('mydirective',mydirective);

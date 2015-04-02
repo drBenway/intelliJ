@@ -1,5 +1,4 @@
 /**
- * Created by D-BS21WG on 4/02/2015.
  * make sure that controllers call a function with the same name
  * angular.modulr('myapp')
  *  .controller('mycontroller',mycontroller);

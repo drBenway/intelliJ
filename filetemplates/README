@@ -1,0 +1,4 @@
+To use, add these files to your
+Windows: <your home directory>\.<product name><version number>\config\file templates
+Linux: ~/.<product name><version number>/config/file templates
+OS X: ~/Library/Preferences/<product name><version number>/file templates

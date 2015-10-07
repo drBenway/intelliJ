@@ -1,0 +1,34 @@
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+
+# Netbeans
+nbproject/
+
+# Runtime
+libpeerconnection.log
+coverage
+/test_out
+test-results.xml
+reports
+build
+
+# Dependencies
+node_modules
+bower_components
+
+#grunt/node
+.tmp/
+*.log
+
+# Build
+libraries/
+.sass-cache/
+stubs
+
+# Build output
+build.properties
+changelog.json
+docs/
